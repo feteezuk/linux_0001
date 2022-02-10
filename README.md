@@ -1,6 +1,6 @@
 # Coursera-DE-C2-Using-Linux
 
-An exploration of the Linux Shell
+An exploration of the Linux Shell hasbdkasd
 
 ## Goal:   Learn the basics of Linux Shell
 
